@@ -4,4 +4,4 @@
 
 ### Set up:
 
-Using Anaconda is an easy way download Python and run Jupyter Notebooks. Here is a quick guide I found to set that up: https://sparkbyexamples.com/python/install-anaconda-jupyter-notebook/
+Anaconda is an easy way download Python and run Jupyter Notebooks. Here is a quick guide I found to set that up: https://sparkbyexamples.com/python/install-anaconda-jupyter-notebook/
