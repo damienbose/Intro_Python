@@ -1,6 +1,0 @@
-
-Run Local machine w/ Jupyter
-
-In terminal type:
-jupyter notebook
-
